@@ -87,5 +87,6 @@
     "abuseFlagModalHeading": "Report <%= name %> for violation?",
     "abuseFlagModalBody": "Are you sure you want to flag this post? You should ONLY flag a post that violates the <%= firstLinkStart %>Community Guidelines<%= linkEnd %> and/or <%= secondLinkStart %>Terms of Service<%= linkEnd %>. Inappropriately flagging a post is a violation of the Community Guidelines and may give you an infraction.",
     "abuseFlagModalButton": "Report",
-    "abuseReported": "Thank you for reporting this violation. The moderators have been notified."
+    "abuseReported": "Thank you for reporting this violation. The moderators have been notified.",
+    "abuseAlreadyReported": "You have already reported this message."
 }
